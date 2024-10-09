@@ -1,0 +1,6 @@
+SW,Switch_0,3,Domain_1
+ES,Node_0_0,1,Domain_1
+SW,Switch_1,3,Domain_1
+ES,Node_1_0,1,Domain_1
+SW,Switch_2,3,Domain_1
+ES,Node_2_0,1,Domain_1

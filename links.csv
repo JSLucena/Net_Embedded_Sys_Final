@@ -1,0 +1,6 @@
+Link_0_0,Node_0_0,0,Switch_0,0,Domain_1
+Link_1_0,Node_1_0,0,Switch_1,0,Domain_1
+Link_2_0,Node_2_0,0,Switch_2,0,Domain_1
+Ring_Link_0,Switch_0,1,Switch_1,1,Domain_1
+Ring_Link_1,Switch_1,2,Switch_2,1,Domain_1
+Ring_Link_2,Switch_2,2,Switch_0,2,Domain_1

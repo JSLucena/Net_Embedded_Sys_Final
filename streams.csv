@@ -1,0 +1,6 @@
+7,networkcontrol_Node_1_0_Node_0_0,ATS,Node_1_0,Node_0_0,250,500000,1000000
+7,networkcontrol_Node_2_0_Node_0_0,ATS,Node_2_0,Node_0_0,250,500000,1000000
+7,networkcontrol_Node_0_0_Node_2_0,ATS,Node_0_0,Node_2_0,250,500000,1000000
+6,isochronous_Node_1_0_Node_2_0,ATS,Node_1_0,Node_2_0,100,1000,2000
+5,cyclic_Node_1_0_Node_2_0,ATS,Node_1_0,Node_2_0,500,10000,20000
+5,cyclic_Node_2_0_Node_0_0,ATS,Node_2_0,Node_0_0,500,10000,20000
